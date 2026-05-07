@@ -36,5 +36,4 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/malgany/malgany/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
