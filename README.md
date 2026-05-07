@@ -19,10 +19,22 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,laravel,php&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,laravel,php&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Node.js, Laravel and PHP" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="100%" src="https://
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malgany&theme=github_dark" alt="Tony's GitHub profile summary" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malgany&theme=github_dark" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malgany&theme=github_dark" alt="GitHub stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/malgany/malgany/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
