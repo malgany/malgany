@@ -1,39 +1,36 @@
-<div align="center">
-
 # 👋 Hi, I'm Tony
 
-**Software Engineer** · Brazil
+**Senior Back-end Developer · Go · PHP / Laravel · Brazil**
 
-<a href="https://twitter.com/eu_tony" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-</a>
-<a href="mailto:tonylb.barbosa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/tony-barbosa-365316135" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+I'm Tony, also known as **malgany**. My professional focus is back-end development with Go and PHP/Laravel. This GitHub is also a place for my personal projects: games, interactive tools, and experiments with code.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/tony-barbosa-365316135) · [Email](mailto:tonylb.barbosa@gmail.com) · [X / Twitter](https://twitter.com/eu_tony)
 
----
+## 🛠️ Technology
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,laravel,php&theme=dark" alt="JavaScript, TypeScript, HTML, CSS, Node.js, Laravel and PHP" />
-</div>
+**Back-end focus:** Go, PHP, Laravel  
+**Also in my projects:** JavaScript, TypeScript, Node.js, HTML, CSS
 
+<img src="https://skillicons.dev/icons?i=go,php,laravel,js,ts,nodejs,html,css&theme=dark" alt="Go, PHP, Laravel, JavaScript, TypeScript, Node.js, HTML and CSS" />
+
+## 🎲 Beyond the back end
+
+A few personal projects that show the playful side of my work:
+
+| Project | What it explores |
+| --- | --- |
+| [angle-prompt](https://github.com/malgany/angle-prompt) | A 3D camera simulator that turns angle, elevation, and distance into a text prompt. |
+| [FlappyIA](https://github.com/malgany/FlappyIA) | A JavaScript experiment with neural networks and a genetic algorithm. |
+| [sum20](https://github.com/malgany/sum20) | A numbers game built with JavaScript. |
+
+## 📊 On GitHub
+
+<details>
+<summary>Activity and language statistics</summary>
 <br />
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malgany&theme=github_dark" alt="Tony's GitHub profile summary" />
-</div>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=malgany&theme=github_dark" alt="Tony's GitHub profile summary" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malgany&theme=github_dark" alt="Most used languages in public repositories" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malgany&theme=github_dark" alt="GitHub stats" />
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=malgany&theme=github_dark" alt="Most used languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=malgany&theme=github_dark" alt="GitHub stats" />
-</div>
-
-<br />
-
-<div align="center">
-</div>
+</details>
