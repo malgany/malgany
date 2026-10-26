@@ -4,7 +4,7 @@
 
 I'm Tony, also known as **malgany**. My professional focus is back-end development with Go and PHP/Laravel. This GitHub is also a place for my personal projects: games, interactive tools, and experiments with code.
 
-[LinkedIn](https://www.linkedin.com/in/tony-barbosa-365316135) · [Email](mailto:tonylb.barbosa@gmail.com) · [X / Twitter](https://twitter.com/eu_tony)
+[LinkedIn](https://www.linkedin.com/in/tony-barbosa-365316135) · [Email](mailto:tonylb.barbosa@gmail.com) · [X / Twitter](https://twitter.com/ok_tony)
 
 ## 🛠️ Technology
 
